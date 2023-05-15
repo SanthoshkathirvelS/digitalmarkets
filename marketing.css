@@ -1,0 +1,127 @@
+.header {
+  height: 800px;
+  width: 1180px;
+  /* border: 1px solid yellow; */
+  margin: auto;
+}
+.header a{
+  text-decoration: none;
+  color: black;
+ 
+}
+.header a:hover{
+  color: red;
+}
+
+h3{font-size: xx-large;
+  font-family: inherit;
+  font-weight: 500;
+}
+
+.title {
+  height: 150px;
+  width: 1180px;
+  /* border: 1px solid blue; */
+}
+
+.topic {
+  text-align: center;
+  font-size: 40px;
+  font-family: Montserrat,sans-serif;
+
+}
+
+.element {
+  font-weight: 400;
+  text-align: center;
+  color: #808080;
+  font-style: italic;
+}
+
+.content {
+  height: 650px;
+  width: 1180px;
+  /* border: 1px solid palevioletred; */
+}
+.topleft {
+  height: 320px;
+  width: 380px;
+  /* border: 1px solid green; */
+  display: inline-block;
+}
+
+.topcentre {
+  height: 320px;
+  width: 380px;
+  /* border: 1px solid orange; */
+  display: inline-block;
+}
+
+.topright {
+  height: 320px;
+  width: 380px;
+  /* border: 1px solid black; */
+  display: inline-block;
+}
+
+.bottomleft {
+  height: 320px;
+  width: 380px;
+  /* border: 1px solid lawngreen; */
+  display: inline-block;
+}
+
+.bottomcentre {
+  height: 320px;
+  width: 380px;
+  /* border: 1px solid green; */
+  display: inline-block;
+}
+
+.bottomright {
+  height: 320px;
+  width: 380px;
+  /* border: 1px solid blueviolet; */
+  display: inline-block;
+}
+
+h2{text-align: center;
+padding-top: 20px;
+font-family: Montserrat,sans-serif;
+font-weight: 500;
+}
+
+.good{text-align: center;
+  font-weight: 400;
+  color: #808080;
+  padding: 10px 35px 0 35px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 400;
+}
+
+.pic1{height: 150px;
+  width: 150px;
+  margin-left: 120px;
+}
+
+.pic2{height: 148px;
+  width: 155px;
+  margin-left: 120px;}
+
+  .pic3{height: 158px;
+    width: 147px;
+    margin-left: 114px;}
+
+    .pic4{height: 124px;
+      width: 136px;
+      margin-left: 114px;
+    padding-bottom: 8px;}
+
+      .pic5{height: 144px;
+        width: 150px;
+        margin-left: 114px;}
+
+        .pic6{height: 150px;
+          width: 150px;
+          margin-left: 114px;}
